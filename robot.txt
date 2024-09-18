@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://inewsgacor.github.io/berita/sitemap.xml
